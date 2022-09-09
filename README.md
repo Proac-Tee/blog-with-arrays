@@ -10,4 +10,4 @@ This is a blog that stores user data in an array format
 
 ## To start run
 
-- npm start
+- # npm start
